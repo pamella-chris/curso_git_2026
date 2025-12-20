@@ -1,0 +1,6 @@
+ls -> lista arquivos
+cd -> move entre diretórios
+pwd -> mostra diretório de trabalho
+mkdir -> cria uma pasta
+cat -> mostra no git bash o conteúdo de um arquivo de texto
+git init . - transforma uma pasta em um repositório git

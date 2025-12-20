@@ -2,3 +2,4 @@ gti init. - cria um repo git na pasta atual
 git status
 git commit -m "msg" 
 git add nome_arquivo - adiciona arquivo para ser comitado
+git log - mostra tofo o histórico de commit

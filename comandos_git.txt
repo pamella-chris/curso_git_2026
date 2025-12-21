@@ -6,3 +6,4 @@ git log - mostra tofo o histórico de commit
 git diff "nome do arquivo" - mostra a diferença do estado atual do 
 arquivo em relação ao commit anterior
 git diff . - mesma funcionalidade para todos os arquivos da pasta
+git reset "nome do arquivo" - remove determinado arquivo do commit anterior

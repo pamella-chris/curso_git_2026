@@ -1,5 +1,7 @@
+
 Neste arquivo, começamos o estudo de branches ou ramificações de projetos
 
 git checkout -b nomebranch - cria uma branch nova
 git checkout nomebranck - navega entre as branches
 git merge nomebranch - unem as alterações da branch secundária (nomebranch) para a branch main
+
